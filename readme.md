@@ -80,4 +80,27 @@ Pour ceux qui ont finit, vous pouvez faire la suite :
 
 
 
+# Jeu Feu Eau Terre
 
+## Description
+Petit jeu en JavaScript où le joueur affrontre l'ordinateur avec en choisisant parmis trois élément.
+-Le Feu
+-L'Eau
+-Et la Terre
+Voici la régle du jeu :
+- Le joueur et l'ordinateur ont trois pouvoirs 
+feu,eau,terre
+- Le **feu** bat la **terre**
+- L''**eau** bat le **feu**
+- La **terre** bat l'**eau**
+- Egalité si le joueur et l'ordinateur ont le même pouvoir
+ 
+## Technologies utilisées
+-HTML
+-CSS
+-JavaScript
+
+## Choix techniques
+- Utilisation de **fonctions pures** pour séparer la logique du jeu (`playGame`, `powerPc`, etc.).
+- Manipulation du **DOM** pour afficher les résultats en direct.
+- Système de **score** avec désactivation des boutons quand un joueur atteint 10 points.
