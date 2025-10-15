@@ -76,3 +76,8 @@ Pour ceux qui ont finit, vous pouvez faire la suite :
 - Afficher les choix du jouer et de l'ordinateur quand un bouton est clické
 - Ajouter un systeme de score avec affichage du score
 - Limiter la partie de jeu , le premier qui arrive à 10 points la partie s'arrete et les bouttons sont désactivés (*button.disabled = true*)
+
+
+
+
+
